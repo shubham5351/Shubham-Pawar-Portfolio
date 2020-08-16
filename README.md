@@ -1,2 +1,2 @@
 # Shubham-Pawar-Portfolio
-Hi
+This is the simple portfolio designed with the help of html and css. It contains link to resume and my Github account. 
